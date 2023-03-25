@@ -1,1 +1,13 @@
+
+title: Read The Docs Jekyll Theme as done by [Carlos Pereira Atencio](https://github.com/carlosperate/jekyll-theme-rtd)
+description: configuration of the theme
 remote_theme: carlosperate/jekyll-theme-rtd
+content_author: Eve Zeyl
+repo_url: "https://github.com/evezeyl/logitech_MX_Keys_Linux_Memo"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+
+## hljs_style: github-gist
