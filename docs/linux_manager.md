@@ -1,3 +1,10 @@
+---
+layout: default
+title: Logitech keyboads under linux
+nav_order: 1
+---
+
+
 # Logitech keyboads under linux 
 
 Please visit: [Solaar](https://github.com/pwr-Solaar/Solaar) - A Linux manager for many logitech periferals (including keyboards). 
