@@ -15,3 +15,4 @@ PS: I also use this repo for learning how to improve my skills (eg. building web
 
 Following (and thanks for this): <https://github.com/carlosperate/jekyll-theme-rtd>  for building the documentation
 
+View this as a webpage: <https://evezeyl.github.io/logitech_MX_Keys_Linux_Memo>
