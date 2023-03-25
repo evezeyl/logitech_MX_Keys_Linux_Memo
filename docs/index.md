@@ -20,4 +20,7 @@ I can't garanty that this will be done fast ... depending on workload.
 PS: I also use this repo for learning how to improve my skills (eg. building website with github and others).
 
 Following (and thanks for this): <https://github.com/carlosperate/jekyll-theme-rtd>  for building the documentation
+However, the licence form provided by the authors is a licence form I am not familiar with. So I am binded to use their licence temrs to this repository. 
+Every code that comes from their work is binded to their licence (theme). 
+
 
