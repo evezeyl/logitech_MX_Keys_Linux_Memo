@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: README
 nav_exclude: true
 ---
 
