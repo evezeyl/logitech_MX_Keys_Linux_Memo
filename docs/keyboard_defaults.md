@@ -12,11 +12,14 @@ nav_order: 2
 | :-------- | :--- | :------- | :---- |
 | fn+esc    | locks/unlock F-keys/media-keys | to use media keys when you are on F mode, hold fn+media key, and vice versa | Manual instructions | 
 
+<br> </br>
 
 ## Solely in full sized - MX-keys keyboard
 
 <!-- place holder -->
+<br> </br>
 
 ## Solely in mini MX-keys keyboard 
 
 <!-- place holder -->
+<br> </br>
