@@ -1,4 +1,10 @@
-# Keyboard shortcuts: 
+---
+layout: default
+title: Keyboard shortcuts
+nav_order: 2
+---
+
+# Keyboard shortcuts
 
 ## Shared by MX-keys keyboard (non mechanical)
 
